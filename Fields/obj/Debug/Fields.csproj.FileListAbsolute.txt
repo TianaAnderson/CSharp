@@ -1,0 +1,6 @@
+C:\Users\Tiana\Source\Repos\Fields\bin\Debug\Fields.exe.config
+C:\Users\Tiana\Source\Repos\Fields\bin\Debug\Fields.exe
+C:\Users\Tiana\Source\Repos\Fields\bin\Debug\Fields.pdb
+C:\Users\Tiana\Source\Repos\Fields\obj\Debug\Fields.csproj.CoreCompileInputs.cache
+C:\Users\Tiana\Source\Repos\Fields\obj\Debug\Fields.exe
+C:\Users\Tiana\Source\Repos\Fields\obj\Debug\Fields.pdb

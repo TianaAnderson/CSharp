@@ -1,0 +1,7 @@
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Indexers\bin\Debug\Indexers.exe
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Indexers\bin\Debug\Indexers.pdb
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Indexers\obj\Debug\Indexers.exe
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Indexers\obj\Debug\Indexers.pdb

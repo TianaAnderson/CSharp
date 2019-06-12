@@ -1,0 +1,7 @@
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Methods\bin\Debug\Methods.exe.config
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Methods\bin\Debug\Methods.exe
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Methods\bin\Debug\Methods.pdb
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Methods\obj\Debug\Methods.exe
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Methods\obj\Debug\Methods.pdb
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 1\Methods\obj\Debug\Methods.csprojAssemblyReference.cache

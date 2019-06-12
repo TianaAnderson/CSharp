@@ -1,0 +1,6 @@
+C:\Users\Tiana\Source\Repos\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\Tiana\Source\Repos\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\Tiana\Source\Repos\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\Tiana\Source\Repos\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\Tiana\Source\Repos\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\Tiana\Source\Repos\AccessModifiers\obj\Debug\AccessModifiers.pdb
