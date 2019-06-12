@@ -1,0 +1,7 @@
+C:\Users\Tiana\Source\Level Up Projects\C#\Hellooo World\bin\Debug\Hellooo World.exe.config
+C:\Users\Tiana\Source\Level Up Projects\C#\Hellooo World\bin\Debug\Hellooo World.exe
+C:\Users\Tiana\Source\Level Up Projects\C#\Hellooo World\bin\Debug\Hellooo World.pdb
+C:\Users\Tiana\Source\Level Up Projects\C#\Hellooo World\obj\Debug\Hellooo World.csprojAssemblyReference.cache
+C:\Users\Tiana\Source\Level Up Projects\C#\Hellooo World\obj\Debug\Hellooo World.csproj.CoreCompileInputs.cache
+C:\Users\Tiana\Source\Level Up Projects\C#\Hellooo World\obj\Debug\Hellooo World.exe
+C:\Users\Tiana\Source\Level Up Projects\C#\Hellooo World\obj\Debug\Hellooo World.pdb
