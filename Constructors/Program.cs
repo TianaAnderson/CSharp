@@ -2,17 +2,14 @@
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Amazon;
 
-namespace AccessModifiers
+namespace Constructors
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var customer = new Customer();
-            Amazon.RateCalculator calculator = new RateCalculator();
-
+            var car = new Car("XYZ123");
         }
     }
 }
