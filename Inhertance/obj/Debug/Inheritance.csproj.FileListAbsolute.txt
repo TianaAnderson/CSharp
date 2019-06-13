@@ -1,0 +1,7 @@
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 2\Inhertance\bin\Debug\Inhertance.exe.config
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 2\Inhertance\bin\Debug\Inhertance.exe
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 2\Inhertance\bin\Debug\Inhertance.pdb
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 2\Inhertance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 2\Inhertance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 2\Inhertance\obj\Debug\Inhertance.exe
+C:\Users\Tiana\Source\Repos\Level Up Projects\C#\CSharpIntermediate\Section 2\Inhertance\obj\Debug\Inhertance.pdb
